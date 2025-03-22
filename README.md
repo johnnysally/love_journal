@@ -20,7 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 Love Journal is a beautiful and personal journal app designed for couples to capture and cherish their special moments. With features like favorite journal entries, photo memories, quotes, a timeline, and mood tracking, this app makes it easy to relive your most meaningful experiences.
 
 ## 💡 Inspiration: A Love Story
-This app was inspired by my girlfriend Sally, who has always encouraged me to document and appreciate the little moments that make our love special. Her idea of keeping a shared love journal made me realize how powerful memories can be when stored in a meaningful way. This app is my way of turning that idea into reality—so couples like us can hold onto their love stories forever. ❤️
+This app was inspired by my girlfriend who is the love of my life Salome Wanjiru (Sally), who has always encouraged me to document and appreciate the little moments that make our love special. Her idea of keeping a shared love journal made me realize how powerful memories can be when stored in a meaningful way. This app is my way of turning that idea into reality—so couples like us can hold onto their love stories forever. ❤️
 
 ## ✨ Features
 - **Personal Journal** – Write and organize your thoughts and emotions.
